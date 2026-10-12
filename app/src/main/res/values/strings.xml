@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zontes Voice V.2</string>
+    <string name="a11y_desc">ใช้กดปุ่ม LOCK / UNLOCK / FUEL / SEAT ในแอพ Zontes Smart แทนคุณตามคำสั่งเสียง</string>
+</resources>
